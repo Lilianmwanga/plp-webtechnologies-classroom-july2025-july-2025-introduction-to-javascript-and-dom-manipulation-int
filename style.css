@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(204, 153, 14);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 5px;
+    padding: 5px;
+}
+h1{
+    background-color: white;
+    color: rgb(39, 4, 4);
+    border: 5px;
+    padding: 5px;
+    border-color: black;
+    border-width: 5px;
+    text-align: center;
+}
+h2{
+    
+    color: rgb(3, 62, 63);
+    
+}
+h3{
+    
+    
+    color:red;
+    
+}
+P{
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+div{
+    background-color: beige;
+}
+img{
+    align-items: center;
+    
+}
+ul{
+    color: white;
+}
